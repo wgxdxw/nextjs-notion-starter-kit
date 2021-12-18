@@ -8,8 +8,8 @@ module.exports = {
 
   // basic site info (required)
   name: 'Daily Updates',
-  domain: 'xiaodiwang',
-  author: 'Xiaodi Wang',
+  domain: 'XW',
+  author: 'XW',
 
   // open graph metadata (optional)
   description: 'Test',
@@ -17,9 +17,9 @@ module.exports = {
   socialImageSubtitle: '',
 
   // social usernames (optional)
-  twitter: 'xiaodiiiii',
-  github: 'wgxdxw',
-  linkedin: 'xiaodiwang',
+  twitter: 'XW',
+  github: 'XW',
+  linkedin: 'XW',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
